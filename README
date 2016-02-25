@@ -16,9 +16,10 @@ RUN TESTS
 GETTING STARTED 
 * git clone https://github.com/cptlc/cptl-models.git
 * cd cptl-models/cypsa-8sub
-* validate schemas/8sub.json graphs
-* validate schemas/substation_network.json graphs/substation_network/json/
-* validate schemas/substation_yard.json graphs/substation_yard/json/
+* validate schemas/graphs/8sub.json graphs
+* validate schemas/graphs/substation_network.json graphs/substation_network/json/
+* validate schemas/graphs/substation_yard.json graphs/substation_yard/json/
+* validate schemas/resolvers/resolver.uuid.json resolvers/
 * Try changing one of the files to violate the schema and rerun
 
 
